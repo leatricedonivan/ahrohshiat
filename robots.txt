@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aigughaehi.benchmarkanything.org/sitemap.xml
